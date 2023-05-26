@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/context-and-useContext/static/css/main.2b9e3b4a.css",
+    "main.js": "/context-and-useContext/static/js/main.c023525b.js",
+    "index.html": "/context-and-useContext/index.html",
+    "main.2b9e3b4a.css.map": "/context-and-useContext/static/css/main.2b9e3b4a.css.map",
+    "main.c023525b.js.map": "/context-and-useContext/static/js/main.c023525b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9e3b4a.css",
+    "static/js/main.c023525b.js"
+  ]
+}
